@@ -1,4 +1,4 @@
-# (PotStacker)[https://www.spigotmc.org/resources/pot-command-to-stack-potions.109537/]
+# [PotStacker](https://www.spigotmc.org/resources/pot-command-to-stack-potions.109537/)
 
 ## Description
 PotStacker is a lightweight and efficient Spigot plugin designed to help players and server administrators manage potion inventory clutter. With this plugin, users can easily stack all potions in their inventory or the inventory of others, reducing the space occupied by potions and making inventory management a breeze.
