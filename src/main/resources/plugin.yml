@@ -1,0 +1,20 @@
+name: Main
+version: '${project.version}'
+main: fr.franklin.potionstacker.Main
+api-version: 1.19
+prefix: "[PotStacker]"
+description: A pot plugin to stack all potions in inventory
+commands:
+  pot:
+    description: Stacks all potions in your inventory
+    usage: /pot
+permissions:
+    potstacker.pot:
+        description: Allows you to use /pot on yourself
+        default: true
+    potstacker.pot.others:
+        description: Allows you to use /pot on other players
+        default: op
+    potstacker.pot.all:
+      description: Allows you to use /pot on all players
+      default: op
